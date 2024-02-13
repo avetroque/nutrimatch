@@ -1,0 +1,5 @@
+joblib
+plotly
+datetime
+scikit-learn
+streamlit-option-menu
