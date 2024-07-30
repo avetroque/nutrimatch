@@ -26,7 +26,8 @@ def plot_nutrition_category(data, category):
     plt.show()
 
 # Load the dataset into a DataFrame
-file_path = r'D:\Bachelor of Computer Science (Artificial Intelligence)\FYP\FYP\Average_FoodWaste.csv'
+#file_path = r'D:\Bachelor of Computer Science (Artificial Intelligence)\FYP\FYP\Average_FoodWaste.csv'
+file_path = r'Average_FoodWaste.csv'
 
 # Load the dataset
 nutrition_data = pd.read_csv(file_path)
