@@ -3,3 +3,4 @@ plotly
 datetime
 scikit-learn
 streamlit-option-menu
+numpy==1.26.4
